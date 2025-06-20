@@ -8,8 +8,8 @@ This repository contains comprehensive documentation about the Model Context Pro
 
 ## Lessons
 
-### 1. Why MCP?
+### 1. Why MCP? ([1_Why_mcp.md](1_Why_mcp.md))
 
-### 2. MCP Architecture
+### 2. MCP Architecture ([2_MCP_Architecture.md](2_MCP_Architecture.md))
 
-#### Transport Layer
+#### 3. Transport Layer ([3_Transport.md](3_Transport.md))
